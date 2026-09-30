@@ -1,0 +1,7 @@
+{
+  "name": "CraveDash - Gourmet Food Delivery & Real-Time Logistics",
+  "description": "Culinary precision meets real-time delivery logistics. Savor gourmet dining from premium city eateries with live GPS tracking, resolution center, and hyper-local discovery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
